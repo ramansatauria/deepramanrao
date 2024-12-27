@@ -42,6 +42,7 @@ Focused on usability and accessibility to ensure an optimal user experience.
 🌐 Connect with Me!
 
 💼 LinkedIn
+
 📧 Email
 
 
