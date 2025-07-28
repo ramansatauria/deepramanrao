@@ -1,48 +1,50 @@
 🌟 Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Ramandeep, a passionate React Developer and MERN Stack Enthusiast, dedicated to crafting seamless digital experiences. From designing sleek user interfaces to building robust backend systems, I strive to turn ideas into functional, user-friendly applications. 🚀
+Hi there! I'm Ramandeep, a passionate Full-Stack Developer specializing in the MERN & MEAN Stacks. I love building applications from the ground up — from intuitive front-end interfaces to scalable back-end systems. 🚀
 
 🚀 About Me
 
-🌐 Specialty: React.js, MERN Stack, Responsive Web Design
+🌐 Specialty: React.js, Next.js, Angular, Node.js, MongoDB
 
-🔭 Currently Working On: Enhancing my expertise in MERN-Stack and exploring advanced Next.js features
+🔭 Currently Working On: Mastering advanced features in Next.js and API design
 
-🌱 Learning: Firebase and Cloud Integrations
+🌱 Learning: Firebase, Docker, and cloud integrations
 
-💻 Fun Fact: I enjoy blending creativity and technology to build memorable digital experiences.
+💡 Fun Fact: I blend creativity and logic to build memorable digital products
 
 🛠️ Skills
 
-Languages:
-           HTML
-           CSS
-           JavaScript
-           TypeScript
-           SQL
+💻 Languages:
+HTML5 • CSS3 • JavaScript • TypeScript • SQL • C/C++ • Python
 
-Frameworks & Tools: React.js, Next.js, Redux, TailwindCSS, Chakra UI, Bootstrap
+⚙️ Frameworks & Libraries:
+React.js • Next.js • Angular • Node.js • Express.js • Redux
 
-Other Knowledge Areas: Node.js, MongoDB, Firebase, C/C++, Python
+🎨 Styling & UI:
+Tailwind CSS • Chakra UI • Bootstrap
 
-Design Tools: Figma, Visual Studio Code
+🗄️ Databases & Tools:
+MongoDB • Firebase • REST APIs • Git/GitHub • Docker
 
-🌟 Projects
+🧰 Design & IDEs:
+Figma • VS Code • Netlify • Render • Vercel
 
-🎮 GameHub
-A rawg.io clone showcasing expertise in React.js, JavaScript, and TypeScript.
-Integrated APIs for fetching and displaying video game data seamlessly.
+📂 Projects
 
-💼 Portfolio Website
-Personal portfolio designed with React.js and modern UI libraries.
-Focused on usability and accessibility to ensure an optimal user experience.
+🎮 GameHub – RAWG.io clone using React, TypeScript & APIs
 
-📜 Certifications : Front End Development (META)
+💼 Portfolio Website – Responsive personal site built with React & UI libraries
 
-🌐 Connect with Me!
+🛒 E-Commerce Platform (Coming Soon) – Full MERN-stack application with user auth, admin panel, payments
 
-💼 LinkedIn
+📜 Certifications
 
-📧 Email
+✅ Front-End Development – Meta
 
+🏗️ Currently pursuing Full-Stack certifications
 
+🌐 Connect with Me
+
+💼 LinkedIn : https://www.linkedin.com/in/ramansatauria/
+
+📧 Email : mailto:ramansatauria@gmail.com
